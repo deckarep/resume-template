@@ -22,6 +22,11 @@ resume test # Validates your resume
 resume export --format html --theme flat docs/index.html
 ```
 
+# Generate's and adds GA Analytics
+```sh
+./generate.sh
+```
+
 # JSON Schema format
 https://jsonresume.org/schema/
 
